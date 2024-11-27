@@ -1,0 +1,26 @@
+.carousel-item img {
+    height: 60vh; /* Scales with viewport */
+    object-fit: cover;
+  }
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+  }
+  
+  .card img {
+    height: 200px;
+    object-fit: contain;
+  }
+  
+  .card-body {
+    min-height: 180px;
+  }
+  
+  #map h1 {
+    font-size: 2rem;
+  }
+    
